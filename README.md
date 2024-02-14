@@ -1,3 +1,4 @@
+This is a Large Language model project using google palm using Rag method.
 building a question-and-answer system for a real e-learning company
 1. embedding = numeric representation of word
 2. vector database = store the vectors
